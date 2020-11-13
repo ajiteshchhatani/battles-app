@@ -13,3 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### Hosting Information
+
+battles-app is also hosted [here](https://ajiteshchhatani.github.io/battles-app/) if you do not wish to setup the code repository locally.
