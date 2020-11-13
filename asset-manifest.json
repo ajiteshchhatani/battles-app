@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/battles-app/static/css/main.36362f88.chunk.css",
-    "main.js": "/battles-app/static/js/main.960b7fdd.chunk.js",
-    "main.js.map": "/battles-app/static/js/main.960b7fdd.chunk.js.map",
+    "main.css": "/battles-app/static/css/main.ab60ef6b.chunk.css",
+    "main.js": "/battles-app/static/js/main.b04314bd.chunk.js",
+    "main.js.map": "/battles-app/static/js/main.b04314bd.chunk.js.map",
     "runtime-main.js": "/battles-app/static/js/runtime-main.9aef2b82.js",
     "runtime-main.js.map": "/battles-app/static/js/runtime-main.9aef2b82.js.map",
     "static/js/2.b99ab7a5.chunk.js": "/battles-app/static/js/2.b99ab7a5.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2d8a881c.chunk.js": "/battles-app/static/js/3.2d8a881c.chunk.js",
     "static/js/3.2d8a881c.chunk.js.map": "/battles-app/static/js/3.2d8a881c.chunk.js.map",
     "index.html": "/battles-app/index.html",
-    "static/css/main.36362f88.chunk.css.map": "/battles-app/static/css/main.36362f88.chunk.css.map",
+    "static/css/main.ab60ef6b.chunk.css.map": "/battles-app/static/css/main.ab60ef6b.chunk.css.map",
     "static/js/2.b99ab7a5.chunk.js.LICENSE.txt": "/battles-app/static/js/2.b99ab7a5.chunk.js.LICENSE.txt",
     "static/media/clear-icon.aa41ca5d.svg": "/battles-app/static/media/clear-icon.aa41ca5d.svg",
     "static/media/search-icon.818eb5a3.svg": "/battles-app/static/media/search-icon.818eb5a3.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.9aef2b82.js",
     "static/js/2.b99ab7a5.chunk.js",
-    "static/css/main.36362f88.chunk.css",
-    "static/js/main.960b7fdd.chunk.js"
+    "static/css/main.ab60ef6b.chunk.css",
+    "static/js/main.b04314bd.chunk.js"
   ]
 }
