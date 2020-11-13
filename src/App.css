@@ -11,6 +11,7 @@
 .location-container, .other-container {
   margin: 0 auto;
   position: relative;
+  width: 100%;
 }
 
 .other-container {
@@ -79,8 +80,14 @@
 }
 
 @media (min-width: 768px) {
-  .location-autocomplete-box, .other-autocomplete-box {
+  .location-container, .other-container {
+    margin: 0 auto;
+    position: relative;
     width: 250px;
+  }
+
+  .location-autocomplete-box, .other-autocomplete-box {
+    width: 100%
   }
 
   .autcomplete-results-container {

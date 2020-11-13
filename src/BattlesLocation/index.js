@@ -25,7 +25,7 @@ function BattlesLocation(props) {
             const battleLocations = getList(locationQuery.toLowerCase());
             setSearchResult(battleLocations);
         }
-    }, [locationQuery, setSearchResult, getList]);
+    }, [locationQuery, setSearchResult]);
 
     return (
         <div className="autcomplete-results-container">
